@@ -1,4 +1,4 @@
-# OOTuple <sup><sup>[ Experimental ]</sup></sup>
+# OOTuple
 
 [![Build Status](https://travis-ci.org/tenphase/OOTuple.svg?branch=master)](https://travis-ci.org/tenphase/OOTuple)
 [![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)](LICENSE.md)
@@ -11,9 +11,9 @@ This means that there's no runtime computation to access elements.
 
 ## Project Status
 
-***(OOTuple works well as is).***  
+**OOTuple works well as is.**  
 **It has not been extensively tested** and it misses features that `std::tuple` has.  
-***It is not complete and it is unlikely for it to be someday...***
+**It is not complete and it is unlikely for it to be someday...**
 
 It has been done as an exercice to better understand:
 - how to use variadic template parameters.
