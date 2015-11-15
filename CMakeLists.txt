@@ -22,7 +22,7 @@
 # THE SOFTWARE.
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-cmake_minimum_required( VERSION 3.4.0-rc2 )
+cmake_minimum_required( VERSION 2.8.7 )
 
 project( OOTuple )
 
