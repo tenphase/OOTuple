@@ -20,7 +20,7 @@ It has been done as an exercice to better understand:
 
 - _The OOTuple project uses `cmake` to generate needed the `makefile`s (or the IDE project of your choice)  
   and make it easy to compile and test it on a wide range of configurations.  
-  You must have at least version 3.4.3-rc2 of `cmake` to compile._
+  You must have at least version 2.8.7 of `cmake` to compile._
 
 
 ##### [ With cmake command line ]
