@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tenphase/OOTuple.svg?branch=master)](https://travis-ci.org/tenphase/OOTuple)
 [![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)](LICENSE.md)
-![Status](https://img.shields.io/badge/status-not maintined-yellow.svg?style=flat)
+![Status](https://img.shields.io/badge/status-experimental-yellow.svg?style=flat)
 
 OOTuple is an object oriented implementation of a tuple made in C++11.  
 It uses Template Meta Programming to ensure that accesses to any element is always 'direct'.  
@@ -11,8 +11,8 @@ This means that there's no runtime computation to access elements.
 
 ## Project Status
 
-_(OOTuple works well as is)._  
-**BUT has not been extensively tested** and it misses features that `std::tuple` has.  
+***(OOTuple works well as is).***  
+**It has not been extensively tested** and it misses features that `std::tuple` has.  
 ***It is not complete and it is unlikely for it to be someday...***
 
 It has been done as an exercice to better understand:
