@@ -72,7 +72,7 @@ _(Open CMake GUI)_
 
 _(Open a terminal and type)_
 ```
-xcode-select —install
+xcode-select -—install
 ```
 
 ## Examples
