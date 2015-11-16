@@ -67,7 +67,7 @@ _(Open CMake GUI)_
 
 #### Note for Mac users
 
-- _To compile on Mac, you need the Xcode command line tools.  
+- _To compile on Mac, you might have to install the Xcode command line tools.  
   (for the system headers to be found by the compiler)_
 
 _(Open a terminal and type)_
