@@ -22,9 +22,9 @@ It has been done as an exercice to better understand:
 
 ## Compile & Test
 
-- _The OOTuple project uses `cmake` to generate needed the `makefile`s (or the IDE project of your choice)  
+- _The OOTuple project uses `cmake` to generate needed the `makefile`s (or the IDE project of your choice)
   and make it easy to compile and test it on a wide range of configurations.  
-  You must have at least version 2.8.7 of `cmake` to compile._
+- You must have at least version 2.8.7 of `cmake` to compile._
 
 
 ##### [ With cmake command line ]
