@@ -77,4 +77,4 @@ xcode-select -—install
 
 ## Examples
 
-- For usage example, see [ootuple.cpp](ootuple.cpp)
+- For usage example, see [main.cpp](main.cpp)
