@@ -43,8 +43,8 @@
 /*
  * TUPLE_VERBOSITY can be set to 0, 1 or 2.
  * 0: Disables the output of messages.
- * 1: Prints a message when the following functions/methods are called:
- * - The makTuple free function
+ * 1: Prints a message when the following functions are called:
+ * - The makeTuple free function
  * - The Tuple constructor
  * - The Tuple copy constructor and copy assignment operator
  * - The Tuple move constructor and move assignment operator
